@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#the-event-ui-tabs").tabs()});
